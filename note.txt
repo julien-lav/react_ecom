@@ -1,0 +1,41 @@
+https://www.youtube.com/watch?v=TRCDsB9i3bI&ab_channel=CodingwithBasir
+github.com/basir/amazona/pull/5/files
+
+44:26
+1_React
+
+npx create-react-app frontend
+npm start
+
+After using the map element in a React Application,
+the first elemnt should have an attribut with an unique key.   
+
+Example: <product key={product._id} 
+
+npm install react-router-dom
+
+DANS BACKEND
+npm init
+
+node backend/server.js
+
+To correct the error we add to package.json
+"type": "module",
+
+npm install --save-dev nodemon
+
+DANS FRONTEND 
+
+2_Axios
+npm install axios
+
+Optional: 
+Extension in VS
+npm install -D eslint
+run ./node_modules/.bin/eslint --init
+
+3_Redux
+npm install redux react-redux
+npm audit fix --force
+
+npm install redux-thunk
